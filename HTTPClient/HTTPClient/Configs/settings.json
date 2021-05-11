@@ -1,0 +1,7 @@
+{
+  "UserApiUrl": "https://reqres.in/api/users",
+  "ResourceApiUrl": "https://reqres.in/api/unknown",
+  "RegisterApiUrl": "https://reqres.in/api/register",
+  "LoginApiUrl": "https://reqres.in/api/login"
+
+}
